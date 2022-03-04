@@ -15,5 +15,5 @@
 #### Reviews
 
 ## 1/2/2022 - 1/3/2022
-### The Rust Programming Language
+### The Rust Programming Language - Carol Nichols, Steve Klabnik
 #### Reviews
