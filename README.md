@@ -13,3 +13,7 @@
 
 ### Learning Go - Jon Bodner
 #### Reviews
+
+## 1/2/2022 - 1/3/2022
+### The Rust Programming Language
+#### Reviews
